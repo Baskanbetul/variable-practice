@@ -1,2 +1,3 @@
 I need to focus on project.
-learn hot to use SMART goals
+Practice how to use SMART goals
+the most important is time for learning code. 
