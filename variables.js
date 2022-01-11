@@ -1,3 +1,6 @@
-I need to focus on project.
-Practice how to use SMART goals
-the most important is time for learning code. 
+var petName = "Togo"
+var lastName = "Baskan"
+var petsAge = 1
+var numDogs = 2
+var isFunny = true
+var lovesPet = 2 !== 3
