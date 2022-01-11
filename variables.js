@@ -3,4 +3,4 @@ var lastName = "Baskan"
 var petsAge = 1
 var numDogs = 2
 var isFunny = true
-var lovesPet = 1 < 3
+var lovesPet = true
